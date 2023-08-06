@@ -12,7 +12,7 @@ Deploy your own Vue.js project with Vercel.
 
 _Live Example: <https://vue-template.vercel.app>
 
-### Site: [https://cssgrid-generator.netlify.com/](https://cssgrid-generator.netlify.com/)
+### Site: [https://clearlove443.github.io/css-grid-generator/](https://clearlove443.github.io/css-grid-generator/)
 
 ![CSS Grid Generator](https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/og-cssgrid.jpg)
 
