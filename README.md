@@ -34,7 +34,7 @@ yarn install
 
 Compiles and hot-reloads for development
 
-```
+```sh
 export NODE_OPTIONS=--openssl-legacy-provider
 https://www.cnblogs.com/hmy-666/p/16949982.html
 yarn run serve
